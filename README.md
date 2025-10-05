@@ -9,7 +9,7 @@
 At Ascode Solutions, we transform ideas into robust, scalable, and user-centric digital experiences.  
 With a strong focus on **quality, innovation, and reliability**, we help startups and enterprises streamline their operations through technology.
 
-We take pride in our team of experienced developers, designers, and strategists who work hand-in-hand with clients to bring their vision to life.
+We take pride in our team of experienced developers, designers, and strategists who collaborate closely with clients to bring their visions to life.
 
 ---
 
@@ -45,16 +45,16 @@ Looking for a reliable tech partner to bring your idea to market?
 Let’s collaborate and turn your concept into a powerful digital product.
 
 📩 **Contact us:**  
-- **Website:** [www.ascodesolutions.com](https://www.ascodesolution.com)  
-- **Email:** contact@ascodesolutions.com  
-- **LinkedIn:** [Ascode Solutions](https://www.linkedin.com/company/ascodesolutions)
+- **Website:** [www.ascodesolution.com](https://www.ascodesolution.com)  
+- **Email:** info@ascodesolution.com  
+- **LinkedIn:** [Ascode Solutions](https://www.linkedin.com/company/ascode-solution)
 
 ---
 
 ## 🏗️ Repositories
 
 This organization hosts our open-source projects, internal tools, and client-supported public repositories.  
-We encourage innovation, learning, and collaboration through technology.
+We encourage innovation, learning, and collaboration through the use of technology.
 
 ---
 
